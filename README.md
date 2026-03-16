@@ -1,3 +1,13 @@
+</> Markdown
+
+<p align="center">
+  <img src="images/Plyse logo.png" width="220">
+</p>
+
+# Plyse Professional Services
+
+**High-Performance Systems | Leadership Development | Culture Transformation**
+
  #Plyse Professional Services – Tools and Resources Page
 
 This repository hosts an online resource page developed by Plyse Professional Services.
