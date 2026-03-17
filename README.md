@@ -48,7 +48,7 @@ The page is publicly accessible via a secure HTTPS link using GitHub Pages.
 ## Live Resource 
 Access the resource here:
 
-https://plyseprofessional.github.io/tools-and-resources/
+[https://plyseprofessional.github.io/tools-and-resources/](https://github.com/plyseprofessional/Tools-and-Resources/blob/main/CEO_Q1%202026_Diagnostic.html)
 
 ## Resource Overview
 
